@@ -51,7 +51,7 @@ while True:
             sender_email = details["Python"]["email"]
             sender_password = details['Python']['password']
 
-        receiver_email = "youngharmony44@gmail.com"
+        receiver_email = "etibabakb@yahoo.com"
         subject = "ISS Overhead"
         body = "Hey, Go outside and look up to see the the ISS Satellite over you"
 
